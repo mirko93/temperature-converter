@@ -1,0 +1,33 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #ccc;
+}
+
+.converter {
+    width: 80%;
+    margin: 50px auto;
+    text-align: center;
+}
+
+.converter h1 {
+    margin-bottom: 50px;
+    color: cadetblue;
+    font-size: 30px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.converter input {
+    width: 80%;
+    padding: 20px;
+    margin-bottom: 20px;
+    font-size: 20px;
+    color: cadetblue;
+    border: none;
+    border-radius: 10px;
+}
